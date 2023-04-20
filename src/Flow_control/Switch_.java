@@ -10,7 +10,7 @@ public class Switch_ {
         System.out.println(a);
         switch (a) {
             case 1:
-                System.out.println("a is 1.");
+                System.out.println("a is 1");
                 break; // 만약 case를 만족시켰다면 더이상 뒤의 case를 검토하지 마세욧
             case 2:
                 System.out.println("a is 2");
