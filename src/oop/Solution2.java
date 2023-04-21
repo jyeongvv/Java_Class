@@ -1,5 +1,6 @@
 package oop;
 
+// 객체, 클래스, 멤버변수
 public class Solution2 {
     public static void main(String[] args) {
         // 특정한 타입의 객체를 만들 때 사용하는 키워드 new
@@ -13,5 +14,11 @@ public class Solution2 {
         fb1.setName("애플붕어빵");
         System.out.println("fb1.name = " + fb1.name);
 
+        FishBread fb2 = new FishBread();
+        System.out.println("fb2.name = " + fb2.name); // null
+        // 같은 클래슬르 공유하는 객체지만, '멤버변수'를 공유하지 않음
+        fb2.setName("장기붕어빵");
+        System.out.println("fb1.name = " + fb1.name);
+        System.out.println("fb2.name = " + fb2.name);
     }
 }

@@ -1,5 +1,6 @@
 package oop;
 
+// 객체지향이란?
 public class Solution1 {
     public static void main(String[] args) {
         Student kim = new Student();
