@@ -19,5 +19,15 @@ public class Car {
         }
         System.out.println("난 " + price + "만원!");
         // return을 하는 순간 함수는 종료
+
+
+//        void discount() {
+//            this.price = this.price * 90 / 100; // 10퍼센트 할인
+        }
+
+
+        // 입력이 없고 반환만 있는
+        // 10번 할인했을 때의 가격을 알려주는
+
     }
-}
+

@@ -7,6 +7,13 @@ public class Solution3 {
         Audi.name = "Audi";
         Audi.price = 27000;
         Audi.introduce();
+
+//        int discountNum = 20;
+//        for (int i = 0; i < discountNum; i++) {
+//            Audi.discount();
+//        }
+////        Audi.discount();
+//        Audi.introduce();
     }
 }
 
