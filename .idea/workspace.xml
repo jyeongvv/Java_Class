@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9356dd7-cbe1-4179-a06d-8675bbf4021d" name="변경" comment="go">
-      <change afterPath="$PROJECT_DIR$/src/Flow_control/For_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Flow_control/While_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/FishBread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +45,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -73,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681979827062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="go">
+      <created>1682053666709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682053666709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
