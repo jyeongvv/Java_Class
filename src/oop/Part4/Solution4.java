@@ -1,4 +1,4 @@
-package oop;
+package oop.Part4;
 
 public class Solution4 {
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class Solution4 {
         // IS-A
         Movie johnWick3 = new ActionMovie(); // Action Movie가 가진 추가기능 사용 X
 //        ActionMovie actionMovie = new Movie();
-        // java: incompatible types: oop.Movie cannot be converted to oop.ActionMovie
+        // java: incompatible types: oop.Part4.Movie cannot be converted to oop.Part4.ActionMovie
         // IS-A => 변환이 가능한지 (큰 범위에서 작은 범위로 변환 가능, 작은 범위에서 큰 범위로는 변환 불가능)
         // ㄱ IS-A ㄴ. ㄱ은 ㄴ의 일종이다. 고로 ㄱ은 ㄴ으로 변환 가능하다.
         // -> 상속. -> 이미 구현된 클래스를 전달 받아서

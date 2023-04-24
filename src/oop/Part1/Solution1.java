@@ -1,4 +1,6 @@
-package oop;
+package oop.Part1;
+
+import oop.Part1.Student;
 
 // 객체지향이란?
 public class Solution1 {

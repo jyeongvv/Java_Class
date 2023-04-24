@@ -1,4 +1,4 @@
-package oop;
+package oop.Part2;
 
 // 객체, 클래스, 멤버변수
 public class Solution2 {

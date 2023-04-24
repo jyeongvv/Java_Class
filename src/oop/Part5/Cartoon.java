@@ -1,9 +1,9 @@
-package oop;
+package oop.Part5;
 
 // public class Cartoon extends Object
 public class Cartoon {
-    String name;
-    String author;
+    public String name;
+    public String author;
 
     // 멤버변수들을 가장 위에 두고... 그 다음에 생성자를 둠.
     // 생성자 -> new 키워드와 클래스 자체 이름이 만났을 떄 호출되는 메소드
@@ -29,7 +29,7 @@ public class Cartoon {
     // - default 생성자는 삭제되기에, 만약 이미 썼다면 default도 재정의
 
     // setName
-    void setName(String name) {
+    public void setName(String name) {
         if (name.isEmpty()) {
             System.out.println("Name is empty");
             return; // stop the funtion

@@ -1,9 +1,11 @@
-package oop;
+package oop.Part4;
+
+import oop.Part4.ActionMovie;
 
 public class GunActionMovie extends ActionMovie {
-    String gunName;
+    public String gunName;
     @Override
-    void bang() { // 부모클래스에게 물려받은 (이미 정의되었던)
+    public void bang() { // 부모클래스에게 물려받은 (이미 정의되었던)
         // 메소드를 재정의해서 다르게 사용하는 것 => 메소드 오버라이딩
         System.out.println("gunName = " + gunName);
         super.bang(); // 부모클래스에 이미 정의된 기능을 불러오겠다

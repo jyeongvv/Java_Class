@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9356dd7-cbe1-4179-a06d-8675bbf4021d" name="변경" comment="go">
-      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Bouncer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Predator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Solution7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/ActionMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part4/ActionMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Cartoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part5/Cartoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/FishBread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part2/FishBread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/GunActionMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part4/GunActionMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part4/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part1/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part2/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part3/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part4/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part5/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part1/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +55,16 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="oop" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="oop.Part4" />
+      <recent name="oop.Part1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -143,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682314168409</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="go">
+      <created>1682317158516</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682317158516</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

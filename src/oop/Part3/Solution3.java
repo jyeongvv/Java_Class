@@ -1,4 +1,4 @@
-package oop;
+package oop.Part3;
 
 // 메소드
 public class Solution3 {

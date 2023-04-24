@@ -1,4 +1,6 @@
-package oop;
+package oop.Part5;
+
+import oop.Part5.Cartoon;
 
 public class Solution5 {
     public static void main(String[] args) {

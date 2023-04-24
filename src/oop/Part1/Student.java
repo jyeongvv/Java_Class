@@ -1,15 +1,15 @@
-package oop;
+package oop.Part1;
 
 public class Student {
-    void  enter() {
+     public void  enter() {
         System.out.println("Entering");
     } // 함수를 실행하고 나서 결과값 타입 (void), 메소드명, (매개변수...) {...실행문}
 
-    void sleep() {
+    public void sleep() {
         System.out.println("Sleeping");
     }
 
-    void study() {
+    public void study() {
         System.out.println("Studying");
     }
 }

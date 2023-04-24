@@ -1,11 +1,11 @@
-package oop;
+package oop.Part4;
 
 public class Movie {
-    String name;
-    int hour;
-    String actor;
+    public String name;
+    public int hour;
+    public String actor;
 
-    void intro() {
+    public void intro() {
         System.out.println("Name: " + name);
         System.out.println("Hour: " + hour);
         System.out.println("Actor: " + actor);
