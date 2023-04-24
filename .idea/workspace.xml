@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9356dd7-cbe1-4179-a06d-8675bbf4021d" name="변경" comment="go">
-      <change afterPath="$PROJECT_DIR$/src/oop/Cartoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part6/HarryPorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part6/Novel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part6/Solution6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Solution7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part7/ZooKeeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part1/Solution1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,6 +35,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2OgOuYEPaMrJSNb5lwU801zNWzZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -122,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682066145427</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="go">
+      <created>1682304468278</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682304468278</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
