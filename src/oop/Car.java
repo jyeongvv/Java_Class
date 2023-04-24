@@ -47,7 +47,7 @@ public class Car {
         return discountPrice;
     }
     // 입력은 X. 출력만 있는데. 그 출력은 내부에 있는 멤버 변수를
-    // 통해 계산한 값. -> 그 멤버 변수를 다시 저장? 안했어.
+    // 통해 계산한 값. -> 그 멤버 변수 를 다시 저장? 안했어.
 
     // 입력은 있는데 출력은 없음.
     void discountMany(int times) { // 몇번 할인을 할 것인가?
