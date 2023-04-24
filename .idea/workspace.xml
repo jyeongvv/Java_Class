@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9356dd7-cbe1-4179-a06d-8675bbf4021d" name="변경" comment="go">
-      <change afterPath="$PROJECT_DIR$/src/oop/Part6/HarryPorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Part6/Novel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Part6/Solution6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Solution7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Part7/ZooKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Part7/Bouncer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part1/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Predator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Solution7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Part7/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Part7/Tiger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682304468278</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="go">
+      <created>1682314168409</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682314168409</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
