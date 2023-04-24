@@ -14,4 +14,10 @@ public class Tiger extends Animal implements Predator {
     }
     // Predator라는 Inteface 때문에 구현해야할 getFood라는 메소드 생겨서
 
+    @Override
+    public void bark() {
+        System.out.println("떡 하나 주면 안 잡아먹지");
+    }
+    // Predator라는 Inteface 때문에 구현해야할 getFood라는 메소드 생겨서
+
 }
